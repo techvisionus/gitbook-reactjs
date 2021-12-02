@@ -30,16 +30,16 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides-1/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides-1/creating-your-first-project.md)
+{% content-ref url="guides-1/creating-your-first-project-1.md" %}
+[creating-your-first-project-1.md](guides-1/creating-your-first-project-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides-1/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides-1/creating-your-first-task.md)
+{% content-ref url="guides-1/creating-your-first-task-1.md" %}
+[creating-your-first-task-1.md](guides-1/creating-your-first-task-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides-1/advanced-permissions.md" %}
-[advanced-permissions.md](guides-1/advanced-permissions.md)
+{% content-ref url="guides-1/advanced-permissions-1.md" %}
+[advanced-permissions-1.md](guides-1/advanced-permissions-1.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -50,20 +50,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals-1/projects.md" %}
-[projects.md](fundamentals-1/projects.md)
+{% content-ref url="fundamentals-1/projects-1.md" %}
+[projects-1.md](fundamentals-1/projects-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals-1/members.md" %}
-[members.md](fundamentals-1/members.md)
+{% content-ref url="fundamentals-1/members-1.md" %}
+[members-1.md](fundamentals-1/members-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals-1/task-lists.md" %}
-[task-lists.md](fundamentals-1/task-lists.md)
+{% content-ref url="fundamentals-1/task-lists-1.md" %}
+[task-lists-1.md](fundamentals-1/task-lists-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals-1/tasks.md" %}
-[tasks.md](fundamentals-1/tasks.md)
+{% content-ref url="fundamentals-1/tasks-1.md" %}
+[tasks-1.md](fundamentals-1/tasks-1.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
